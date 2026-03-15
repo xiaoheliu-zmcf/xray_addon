@@ -1,0 +1,128 @@
+{
+    "resource_pack_name": "armor_x",
+    "texture_data": {
+        "xray_ingot": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_ingot"
+        },
+        "ultra_ingot": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_ingot"
+        },
+        "super_xrayingot": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_xrayingot"
+        },
+        "super_ingot": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_ingot"
+        },
+        "super_leggings": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_leggings"
+        },
+        "super_helmet": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_helmet"
+        },
+        "super_chestplate": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_chestplate"
+        },
+        "super_boots": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_boots"
+        },
+        "superxray_leggings": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_leggings"
+        },
+        "superxray_helmet": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_helmet"
+        },
+        "superxray_chestplate": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_chestplate"
+        },
+        "superxray_boots": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_boots"
+        },
+        "ultra_leggings": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_leggings"
+        },
+        "ultra_helmet": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_helmet"
+        },
+        "ultra_chestplate": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_chestplate"
+        },
+        "ultra_boots": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_boots"
+        },
+        "xray_leggings": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_leggings"
+        },
+        "xray_helmet": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_helmet"
+        },
+        "xray_chestplate": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_chestplate"
+        },
+        "xray_boots": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_boots"
+        },
+        "xray_sword": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_sword"
+        },
+        "ultra_sword": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_sword"
+        },
+        "superxray_sword": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_sword"
+        },
+        "super_sword": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_sword"
+        },
+        "xray_pickaxe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_pickaxe"
+        },
+        "ultra_pickaxe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_pickaxe"
+        },
+        "superxray_pickaxe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_pickaxe"
+        },
+        "super_pickaxe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_pickaxe"
+        },
+        "superxray_axe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_axe"
+        },
+        "xray_axe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_axe"
+        },
+        "ultra_axe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_axe"
+        },
+        "super_axe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_axe"
+        },
+        "xray_shovel": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_shovel"
+        },
+        "ultra_shovel": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_shovel"
+        },
+        "superxray_shovel": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_shovel"
+        },
+        "super_shovel": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_shovel"
+        },
+        "xray_hoe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/xray_hoe"
+        },
+        "ultra_hoe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/ultra_hoe"
+        },
+        "superxray_hoe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/superxray_hoe"
+        },
+        "super_hoe": {
+            "textures": "textures/XIAOHELIU/xinhe_items/super_hoe"
+        },
+        "xray_book": {
+            "textures": "textures/XIAOHELIU/xinhe_items/book"
+        }
+    }
+}

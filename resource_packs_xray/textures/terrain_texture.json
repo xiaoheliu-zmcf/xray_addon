@@ -1,0 +1,22 @@
+{
+    "resource_pack_name": "armor_x",
+    "texture_data": {
+        "xray": {
+            "textures": "textures/XIAOHELIU/xinhe_blocks/xray"
+        },
+        "super": {
+            "textures": "textures/XIAOHELIU/xinhe_blocks/super"
+        },
+        "superore": {
+            "textures": "textures/XIAOHELIU/xinhe_blocks/superore"
+        },
+        "ultra": {
+            "textures": "textures/XIAOHELIU/xinhe_blocks/ultra"
+        },
+        "super_xray": {
+            "textures": "textures/XIAOHELIU/xinhe_blocks/super_xray"
+        }
+     },
+    "texture_name": "atlas.terrain"
+}
+
