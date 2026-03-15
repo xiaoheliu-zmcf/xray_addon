@@ -1,0 +1,19 @@
+{
+  "format_version": "1.14.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "xh_xray:superore_feature"
+    },
+    "count": 6,
+    "replace_rules": [
+      {
+        "places_block": "xh_xray:superore",
+        "may_replace": [
+          {
+            "name": "minecraft:deepslate"
+          }
+        ]
+      }
+    ]
+  }
+}
