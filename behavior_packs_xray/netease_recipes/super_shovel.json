@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xie:zmlightt1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "Y",
+            "X",
+            "X"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:super_ingot"
+            },
+            "X": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "xh_xray:super_shovel",
+            "count": 1
+        }
+    }
+}

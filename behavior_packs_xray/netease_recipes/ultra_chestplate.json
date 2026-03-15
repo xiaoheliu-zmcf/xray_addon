@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "163:commmnetease"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "X X",
+            "XXX",
+            "XXX"
+        ],
+        "key": {
+            "X": {
+                "item": "xh_xray:ultra_ingot"  // 劣质陨锭
+            }
+        },
+        "result": {
+            "item": "xh_xray:ultra_chestplate",
+            "count": 1
+        }
+    }
+}

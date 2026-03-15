@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xie:zmtq1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "Y Y",
+            "Y Y"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:super_ingot"
+            }
+        },
+        "result": {
+            "item": "xh_xray:super_boots",
+            "count": 1
+        }
+    }
+}

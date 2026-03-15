@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "zmcf:superore"
+    },
+    "tags": ["furnace", "blast_furnace"],
+    "input": {
+      "item": "xh_xray:super_xray"
+    },
+    "output": {
+      "item": "xh_xray:super_xrayingot",
+      "count": 1
+    }
+  }
+}

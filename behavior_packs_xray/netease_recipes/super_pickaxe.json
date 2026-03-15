@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xie:zlt1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "YYY",
+            " X",
+            " X"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:super_ingot"
+            },
+            "X": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "xh_xray:super_pickaxe",
+            "count": 1
+        }
+    }
+}

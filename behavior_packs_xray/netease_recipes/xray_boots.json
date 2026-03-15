@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xinhenetease:zmt_1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "X X",
+            "X X"
+        ],
+        "key": {
+            "X": {
+                "item": "xh_xray:xray_ingot"  // 劣质陨锭
+            }
+        },
+        "result": {
+            "item": "xh_xray:xray_boots",
+            "count": 1
+        }
+    }
+}

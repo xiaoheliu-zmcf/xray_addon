@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xie:z1t1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "Y",
+            "Y",
+            "X"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:xray_ingot"
+            },
+            "X": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "xh_xray:xray_sword",
+            "count": 1
+        }
+    }
+}

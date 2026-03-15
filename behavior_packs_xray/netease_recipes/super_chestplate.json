@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xinh:zm9qC"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "L L",
+            "L L"
+        ],
+        "key": {
+            "L": {
+                "item": "xh_xray:super_ingot"  // 劣质陨锭
+            }
+        },
+        "result": {
+            "item": "xh_xray:super_chestplate",
+            "count": 1
+        }
+    }
+}

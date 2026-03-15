@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "zmcf:zmzmtqtcctv1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "YY",
+            "XY",
+            "X"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:xray_ingot"
+            },
+            "X": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "xh_xray:xray_axe",
+            "count": 1
+        }
+    }
+}

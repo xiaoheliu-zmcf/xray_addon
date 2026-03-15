@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xie:zmmbzwc1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "Y"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:ultra"
+            }
+        },
+        "result": {
+            "item": "xh_xray:ultra_ingot",
+            "count": 9
+        }
+    }
+}

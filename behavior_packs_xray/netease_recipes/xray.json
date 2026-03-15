@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "zmcf:xray"
+    },
+    "tags": ["furnace", "blast_furnace"],
+    "input": {
+      "item": "xh_xray:xray"
+    },
+    "output": {
+      "item": "xh_xray:xray_ingot",
+      "count": 1
+    }
+  }
+}

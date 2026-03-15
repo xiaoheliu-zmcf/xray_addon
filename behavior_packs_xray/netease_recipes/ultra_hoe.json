@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "xie:zmzmt111qt1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "YY",
+            "X",
+            "X"
+        ],
+        "key": {
+            "Y": {
+                "item": "xh_xray:ultra_ingot"
+            },
+            "X": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "xh_xray:ultra_hoe",
+            "count": 1
+        }
+    }
+}

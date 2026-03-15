@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "x:cmt_1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "XXX",
+            "X X"
+        ],
+        "key": {
+            "X": {
+                "item": "xh_xray:super_ingot"  // 劣质陨锭
+            }
+        },
+        "result": {
+            "item": "xh_xray:super_leggings",
+            "count": 1
+        }
+    }
+}

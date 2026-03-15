@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "netease:mt_1"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "XXX",
+            "X X",
+            "X X"
+        ],
+        "key": {
+            "X": {
+                "item": "xh_xray:xray_ingot"  // 劣质陨锭
+            }
+        },
+        "result": {
+            "item": "xh_xray:xray_leggings",
+            "count": 1
+        }
+    }
+}
