@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ultra_helmet"
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:ultra_helmet",
+            "register_to_create_menu": true
+        }
+    }
+}

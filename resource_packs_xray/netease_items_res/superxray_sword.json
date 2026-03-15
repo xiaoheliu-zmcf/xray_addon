@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "superxray_sword"
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:superxray_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

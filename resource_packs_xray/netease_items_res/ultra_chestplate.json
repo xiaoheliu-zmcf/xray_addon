@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ultra_chestplate"
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:ultra_chestplate",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "superxray_hoe"
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:superxray_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ultra_boots"
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:ultra_boots",
+            "register_to_create_menu": true
+        }
+    }
+}
