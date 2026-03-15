@@ -1,0 +1,22 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 32000,
+            "netease:armor": {
+                "armor_slot": 2,
+                "defense": 72,
+                "enchantment": 10,
+                "knockback_resistance": 0.15,
+                "toughness": 4,
+                "minecraft:foil": true
+            },
+            "minecraft:foil": true
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:superxray_leggings",
+            "register_to_create_menu": true
+        }
+    }
+}

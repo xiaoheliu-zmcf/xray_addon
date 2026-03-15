@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 32000,
+            "netease:allow_offhand": {
+                "value": false
+            },
+            "netease:weapon": {
+                "attack_damage": 18,
+                "enchantment": 10,
+                "level": 3,
+                "speed": 10,
+                "type": "pickaxe"
+            }
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:xray_pickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

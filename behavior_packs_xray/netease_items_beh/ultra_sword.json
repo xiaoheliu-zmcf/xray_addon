@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 32000,
+            "minecraft:foil": true,
+            "netease:allow_offhand": {
+                "value": false
+            },
+            "netease:weapon": {
+                "attack_damage": 64,
+                "enchantment": 10,
+                "level": 3,
+                "speed": 10,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:ultra_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

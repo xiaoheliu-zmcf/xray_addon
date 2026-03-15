@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 32000,
+            "minecraft:foil": true,
+            "netease:allow_offhand": {
+                "value": false
+            },
+            "netease:weapon": {
+                "attack_damage": 63,
+                "enchantment": 10,
+                "level": 6,
+                "speed": 10,
+                "type": "pickaxe"
+            }
+        },
+        "description": {
+            "category": "xh_xray",
+            "identifier": "xh_xray:ultra_pickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}
