@@ -1,0 +1,23 @@
+{
+    "format_version": [1, 1, 0],
+    "xray": {
+        "textures": "xray",
+        "sound": "glass"
+    },
+    "super": {
+        "textures": "super",
+        "sound": "stone"
+    },
+    "super_xray": {
+        "textures": "super_xray",
+        "sound": "glass"
+    },
+    "superore": {
+        "textures": "superore",
+        "sound": "stone"
+    },
+    "ultra": {
+        "textures": "ultra",
+        "sound": "stone"
+    }
+}
