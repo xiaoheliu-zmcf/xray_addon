@@ -1,3 +1,6 @@
-# xray_addon
-X-Ray Equipment Add-on for Minecraft China Edition
-请不要搬运到网易
+/# xray_addon
+该附加包还原了JAVA版mod--《super-tools》
+该附加包使用方法:
+    1.需要使用《我的世界》中国版3.6
+    2.需打开实验性玩法中的假日创造者
+未经允许,请误搬运到《我的世界》中国版
