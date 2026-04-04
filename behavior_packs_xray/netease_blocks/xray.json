@@ -1,28 +1,22 @@
 {
-    "format_version": "1.10.0",
+    "format_version": "1.21.50",
     "minecraft:block": {
         "components": {
-            "minecraft:destroy_time": 4.0,
-            "minecraft:material_instances": {
-                "*": {
-                    "render_method": "blend",
-                    "face_dimming": false,
-                    "ambient_occlusion": false
-                }
+            "netease:render_layer": {
+                "value": "alpha"
             },
-            "minecraft:collision_box": true,
-            "minecraft:selection_box": true,
-            "minecraft:light_dampening": 0,
             "netease:tier": {
                 "destroy_special": true,
                 "digger": "pickaxe",
                 "level": 1
+            },
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 1.0
             }
         },
         "description": {
             "category": "xh_xray",
-            "identifier": "xh_xray:xray",
-            "register_to_creative_menu": true
+            "identifier": "xh_xray:xray"
         }
     }
 }
